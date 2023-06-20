@@ -1,5 +1,3 @@
-Added a new line here
-
 Source:
 https://ghost.org/themes
 
@@ -47,9 +45,6 @@ https://taste.ghost.io/
 https://episode.ghost.io/
 
 
-
-
-
 Detail page
 https://maido.fueko.net/the-perfect-place-that-helps-you-get-work-done-in-peace/
 https://horace.justgoodthemes.eu/choosing-the-best-front-end-framework/
@@ -65,16 +60,10 @@ https://alto.ghost.io/always-keep-learning/
 https://headline.ghost.io/how-has-this-complete-original-been-sidelined/
 
 
-
-
-
 Style Guide
 https://maido.fueko.net/style-guide/
 https://solo.ghost.io/style-guide/
 https://taste.ghost.io/style-guide/
-
-
-
 
 
 Card
@@ -85,29 +74,15 @@ https://liebling.eduardogomez.io/
 https://ruby.ghost.io/
 
 
-
-
-
 Table of content
 https://dashi.bironthemes.com/build-a-community-around-your-content/
 https://firma.eduardogomez.io/a-virtual-company-wide-hackathon-is-worth-the-investment/
-
-
-
 
 
 Prev/Next
 https://dashi.bironthemes.com/build-a-community-around-your-content/
 https://ease.ghost.io/general-billing-overview/
 https://dawn.ghost.io/
-
-
-
-
-
-
-
-
 
 
 Social share
@@ -120,8 +95,6 @@ Animation
 https://ghost.apalodi.com/kutak/you-should-empower-your-team/
 https://blossom.trexthemes.com/
 https://ikken.fueko.net/
-
-
 
 
 root:focus,
